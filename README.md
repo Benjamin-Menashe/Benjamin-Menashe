@@ -1,5 +1,5 @@
 - Hi, I’m @Benjamin-Menashe
-- I’m interested in machine learning, game theory, and math riddles.
+- I’m interested in machine learning, cognitive modeling, and math riddles.
 - I’m currently a neuroscience graduate student.
 
 <!---
